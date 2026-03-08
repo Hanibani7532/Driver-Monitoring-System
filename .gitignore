@@ -1,0 +1,5 @@
+# Ignore Data folders and heavy files
+Data/
+venv/
+__pycache__/
+*.pt
